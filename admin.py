@@ -1,8 +1,8 @@
 '''
 Done By KrishnaKumar
 '''
-class BankAdmin:
+class Bank:
     def __init__(self) -> None:
         pass
-    def main():
+    def main(self):
         return "This is the admin.py file"
